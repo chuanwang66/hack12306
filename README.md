@@ -4,6 +4,8 @@
 打包成.exe
 =======
 * C:\Python35\python.exe pack.py
+* 如果你不会打包，我这里已经打好一个你自己去下载解压就好了[qiangpiao](https://github.com/chuanwang66/hack12306/blob/master/qiangpiao.zip)
+* 当然，在此之前，请你装好特定版本的chrome，我也帮你下载好了[chrome63](https://github.com/chuanwang66/hack12306/blob/master/ChromeStandalone_63.0.3239.132_Setup.exe)
 
 使用方法
 =======
