@@ -228,14 +228,17 @@ class hackTickets(object):
             print(u"确认选座...")
 
             seat_type_dict = {
-                'A': u'高级软卧',
-                'B': u'软卧',
-                'C': u'动卧',
-                'D': u'硬卧',
-                'E': u'软座',
-                'F': u'硬座',
-                'G': u'无座',
-                'H': u'其他',
+                'A': u'商务座特等座',
+                'B': u'一等座',
+                'C': u'二等座',
+                'D': u'高级软卧',
+                'E': u'软卧',
+                'F': u'动卧',
+                'G': u'硬卧',
+                'H': u'软座',
+                'I': u'硬座',
+                'J': u'无座',
+                'K': u'其他',
             }
             seat_need_types = []    #e.g. [u'硬卧', u'硬座'']
             for seat_type in self.seat_types:
