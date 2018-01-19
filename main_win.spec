@@ -9,7 +9,7 @@ a = Analysis(['hack12306.py'],
                 ('chromedriver.exe', '')
              ],
              datas=[
-                ('config_default.ini', ''),
+                ('config.ini', ''),
                 ('city_code.txt', ''),
                 ('qiangpiao.txt', '')
              ],
