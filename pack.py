@@ -34,4 +34,3 @@ if __name__ == "__main__":
 
     #改名
     os.rename('./dist/qiangpiao/qiangpiao.txt', './dist/qiangpiao/抢票说明.txt')
-    os.rename('./dist/qiangpiao/config_default.ini', './dist/qiangpiao/config.ini')
